@@ -1,0 +1,108 @@
+*	{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;	
+}
+html	{
+	scroll-behavior: smooth;
+}
+.navbar-text1	{
+	font-size: 30px;
+	font-weight: 800;
+}
+
+.navbar-text2	{
+	font-size: 20px;
+	font-weight: 800;
+}
+
+.bg-deer {
+	background-color: #ba8759;
+}
+
+.bg-wheat	{
+	background-color: wheat;
+}
+
+.border-pic	{
+	border-style: solid;
+	border-color: black;
+	border-width: 10px;
+}
+
+.border-pic2	{
+	border-style: solid;
+	border-color: #ba8759;
+	border-width: 10px;
+	border-radius: 50%;
+	background-color: #ba8759;
+}
+
+.border-pic3	{
+	border-style: solid;
+	border-color: wheat;
+	border-width: 10px;
+	border-radius: 50%;
+	background-color: wheat;
+}
+
+.aboutme-tools	{
+	font-size: 60px;
+	border-style: solid;
+	border-radius: 30px;
+	padding: 10px;
+	text-align: center;
+	background-color: #ba8759;
+	color: wheat;
+	border-color: #ba8759;
+}
+
+.projects-contacts	{
+	font-size: 60px;
+	border-style: solid;
+	border-radius: 30px;
+	padding: 10px;
+	text-align: center;
+	background-color: wheat;
+	color: #ba8759; 
+	border-color: wheat;
+}
+
+.padding-top	{
+	padding-top: 71px;
+}
+
+.tools-titles	{
+	font-size: 20px;
+	border-style: solid;
+	border-radius: 30px;
+	padding: 5px;
+	text-align: center;
+	background-color: #ba8759;
+	color: wheat;
+	border-color: #ba8759;
+}
+
+.contact-pic {
+	height: 100px;
+	width: 100px;
+}
+.contact-me	{
+	font-size: 30px;
+	color: wheat;
+}
+
+.contact-sub	{
+	font-size: 20px;
+	color: wheat;
+
+}
+
+h1	{
+	font-family: 'Poppins', sans-serif;
+	font-size: 50px;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
